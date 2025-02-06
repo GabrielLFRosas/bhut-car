@@ -23,7 +23,7 @@ Siga as etapas abaixo para configurar e iniciar a aplicação:
 Clone o repositório da aplicação para sua máquina local:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/GabrielLFRosas/bhut-car.git
 cd bhut-car
 ```
 
